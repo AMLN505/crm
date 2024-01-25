@@ -18,6 +18,8 @@ Frontend-разработчик
 4. Для запуска сервера ввести команду "node index"
 5. Открыть файл index.html в папке /crm-frontend/ в IDE и запустить расширение LiveServer
 
+## [Ссылка на макет](https://www.figma.com/file/rcta5K2ySOhnskjG1D82jL/CRM?type=design&mode=design&t=vtZawmmaiN11szGW-0)
+
 ## Технологии
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
