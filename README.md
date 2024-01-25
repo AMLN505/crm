@@ -1,15 +1,26 @@
 # CRM App
-## About
+## О проекте
 CRM для работы с контактной информацией студентов.
 
-## Possibilities
+## Возможности проекта
 - Просмотр списка студентов в виде таблицы;
 - Добавление нового студента;
 - Изменение информации о существующем студенте;
 - Поиск с автодополнением и сортировка студентов;
 - Доступ к карточкам студентов по ссылке.
-  
-## Languages and Tools
+
+## Моя роль в проекте
+Frontend-разработчик
+
+## Инструкция по запуску
+1. Скачать сборку из ветки main
+2. Открыть папку /crm-frontend/ в IDE
+3. Установить пакеты с помощью команды в терминале "npm i"
+4. Открыть папку /crm-backend/ в IDE
+5. Для запуска сервера ввести команду "node index"
+6. Открыть файл index.html в папке /crm-frontend/ в IDE и запустить расширение LiveServer
+
+## Технологии
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
